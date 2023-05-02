@@ -7,3 +7,6 @@ DEV_DATA := $(ROOT_DIR)/data
 
 setup:
 	mkdir -p data \
+
+clean_regular_fasta:
+	# Not Implemented

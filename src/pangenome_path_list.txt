@@ -1,0 +1,5 @@
+/mnt/research/edgerpat_lab/Scotty/Camelina_TE_Annotation/data/cleaned_input/renamed_Athaliana_447_TAIR10.fa
+/mnt/research/edgerpat_lab/Scotty/Camelina_TE_Annotation/data/cleaned_input/renamed_CsSunv4.fa
+/mnt/research/edgerpat_lab/Scotty/Camelina_TE_Annotation/data/cleaned_input/renamed_Chispida_ASM2386411v1_genomic.fa
+/mnt/research/edgerpat_lab/Scotty/Camelina_TE_Annotation/data/cleaned_input/renamed_Claxa_ASM2403449v1_genomic.fa
+/mnt/research/edgerpat_lab/Scotty/Camelina_TE_Annotation/data/cleaned_input/renamed_Cneglecta_GCA_029034625.1_genomic.fa
